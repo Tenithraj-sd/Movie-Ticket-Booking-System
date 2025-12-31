@@ -15,11 +15,6 @@ The system follows a layered architecture:
 - **Repository Layer**: SQLite database for data persistence
 - **External Integrations**: Designed to be extended with payment gateways, user authentication, and cloud storage
 
-### Flow
-```
-User Input → Controller → Service → Repository (SQLite)
-```
-
 ---
 
 ##  Database Design
